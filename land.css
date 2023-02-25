@@ -1,0 +1,16 @@
+body,html{
+	 
+  background: url(new.jpg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{ color: white;font-size: 50px;}
+.btn-xl{padding: 1rem 2rem}
+.btn{font-weight: 700;border-radius: 300PX}
+.btn-success{background-color: orange; 
+border-color:black;}
+.btn-success:hover{background-color:green;border-color: black}
+hr{border-width: 3px;border-color: orange;max-width: 64px;border-radius: 100px}
+.buffer{height: 5rem}
